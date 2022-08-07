@@ -1,4 +1,4 @@
-# AC-NH-Stalk-Market-Classifier
+# AC:NH Stalk Market Classifier
 
 Sequence modelling has seen fruitful use in various applications such as speech recognition, music generation, sentiment classification, machine translation, and time series prediction. However, an area that is not widely studied is the upcoming time series classification variant seen in artificial game markets. With various potential candidate artificial game markets to analyse, I was interested in implementing a time series classification for a personal favourite - Nintendo’s Animal Crossing: New Horizons (ACNH).
 
